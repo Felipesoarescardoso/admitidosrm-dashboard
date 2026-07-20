@@ -1,0 +1,1445 @@
+{
+  "atualizado_em": "2026-07-20T13:43:42.918Z",
+  "resumo": {
+    "total": 2412,
+    "cadastrados": 294,
+    "jaExistiam": 0,
+    "erros": 372,
+    "pendentes": 1746
+  },
+  "metricas": {
+    "totalExecucoes": 55,
+    "execucoesHoje": 2,
+    "mediaDuracaoSegundos": 1277
+  },
+  "execucoes": [
+    {
+      "id": "2bc16cf8-a5f6-4ef2-85a9-dc7903b214de",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T13:00:06.643Z",
+      "finalizado_em": "2026-07-20T13:01:44.629Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "3b02817f-b898-40cf-94c9-56c06e2f00b4",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T08:00:06.387Z",
+      "finalizado_em": "2026-07-20T08:00:45.980Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "ed7b7ccf-b99d-4b47-863d-c5f583e5f6bf",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T01:00:05.317Z",
+      "finalizado_em": "2026-07-20T01:00:46.536Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "9ed14a77-b3b9-4fef-9f74-8c8613090cc2",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T00:10:54.268Z",
+      "finalizado_em": "2026-07-20T00:12:45.992Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "774cacc6-624f-487c-8193-0d79121ed2fd",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T00:10:54.267Z",
+      "finalizado_em": "2026-07-20T00:26:29.303Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "635d2c7b-e5ed-4eb2-9651-bfa7bee7fa8e",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-20T00:10:54.266Z",
+      "finalizado_em": "2026-07-20T00:13:03.555Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "7adf9518-4ca3-4630-8bbb-30919b76fabf",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:24:50.674Z",
+      "finalizado_em": "2026-07-19T22:25:52.557Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "40ef8be5-db20-4a72-90c5-fb8212d3bcb8",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:23:53.022Z",
+      "finalizado_em": "2026-07-19T22:25:06.103Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "80ba0fca-d241-4934-91d7-af59e37e81a5",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:23:34.766Z",
+      "finalizado_em": "2026-07-19T22:25:01.962Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "77631326-c25a-4e37-8b69-66e65184ced3",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-19T22:21:53.237Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "95eeb107-d508-47af-82b0-d174d5da86d5",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-19T22:21:53.198Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "ce2cf5b1-b439-41aa-9b24-6cb1053b1d0e",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-19T22:21:53.084Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "58d01150-51f2-4787-a5f0-ddcf28c20952",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:05:20.615Z",
+      "finalizado_em": "2026-07-19T22:06:27.092Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "cfc92007-8d44-4d60-b8cf-6058fc1010b8",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:05:19.832Z",
+      "finalizado_em": "2026-07-19T22:06:51.253Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "e0bac725-6ac2-417c-9e3d-f5bc82f7d645",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T22:05:19.832Z",
+      "finalizado_em": "2026-07-19T22:07:12.328Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "c6a39d27-e00d-4de0-b756-3d23b1856cf0",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T21:40:01.372Z",
+      "finalizado_em": "2026-07-19T21:43:30.932Z",
+      "total_rm": 4,
+      "cadastrados": 3,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "f49f382e-d9e2-423e-af8f-ad1d65eb180a",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T21:40:01.372Z",
+      "finalizado_em": "2026-07-19T21:44:50.326Z",
+      "total_rm": 4,
+      "cadastrados": 3,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "7a122b75-adcf-473f-b532-ef6a8af6ebb1",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-19T21:40:01.314Z",
+      "finalizado_em": "2026-07-19T21:44:51.776Z",
+      "total_rm": 4,
+      "cadastrados": 3,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "2de280ce-02c2-48e8-9de4-1f91a36f9a26",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-19T21:38:48.915Z",
+      "finalizado_em": null,
+      "total_rm": 4,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "766371b2-d4c8-4afa-899e-6ea98d6f51ff",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T20:00:04.433Z",
+      "finalizado_em": "2026-07-17T20:01:46.278Z",
+      "total_rm": 4,
+      "cadastrados": 0,
+      "erros": 4,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "12247859-efc0-401d-841d-c26d0eb3c019",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T17:25:55.777Z",
+      "finalizado_em": "2026-07-17T17:26:39.285Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "46172d49-f46f-471d-9c52-a02786f02b05",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T16:38:40.939Z",
+      "finalizado_em": "2026-07-17T16:39:22.640Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "993ada9d-717a-4b80-b943-14a20734a6c3",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T16:23:00.895Z",
+      "finalizado_em": "2026-07-17T16:24:02.162Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "24581f88-be86-441c-a852-7856b5c98b41",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T16:18:12.240Z",
+      "finalizado_em": "2026-07-17T16:21:32.140Z",
+      "total_rm": 3,
+      "cadastrados": 2,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "4f98b9ad-418a-40a7-8998-2ac84bbbf57e",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T16:14:40.234Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "f2c2c015-0cef-4865-a5ff-97756e4f40ee",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T16:11:14.152Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "9371e641-2b0a-4622-bd7c-eec50a081487",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T16:10:04.711Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "b4b91824-bd9a-498c-8dbd-e1e833a16efd",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T16:06:06.758Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "72e3ef21-f0fb-41c2-8c20-3e41dd9da405",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T15:55:11.584Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "4abbfefe-686f-4163-b4d6-3aecf8721d56",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T14:25:29.399Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "188e4ce0-06ac-40a4-acf2-7dd9bbcb43f8",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T14:13:23.681Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "05d16ba8-a3de-4a61-9232-53ec065d08df",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-17T14:05:49.242Z",
+      "finalizado_em": null,
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "e919a1a7-b480-42f9-8c86-cb8ffb37aa60",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-17T13:29:04.537Z",
+      "finalizado_em": "2026-07-17T13:31:05.903Z",
+      "total_rm": 96,
+      "cadastrados": 0,
+      "erros": 96,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "2df5875f-0a65-40d4-ba51-03b71518a24f",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T18:00:06.449Z",
+      "finalizado_em": "2026-07-16T20:34:37.472Z",
+      "total_rm": 94,
+      "cadastrados": 82,
+      "erros": 12,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "9eff19fa-decd-4d35-9b1a-7be59cc37d1c",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T17:01:48.054Z",
+      "finalizado_em": null,
+      "total_rm": 21,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "6525b9bc-52ec-4cdf-95f9-503e7235e6fc",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T16:45:49.690Z",
+      "finalizado_em": null,
+      "total_rm": 94,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "01c51980-80a3-4f6e-82b3-9e817ac35b05",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T16:11:19.734Z",
+      "finalizado_em": null,
+      "total_rm": 94,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "e215c6a6-2bc7-4426-8019-4ef21fb0de36",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T13:14:08.868Z",
+      "finalizado_em": null,
+      "total_rm": 92,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "f41c2862-3d61-4f25-8b8e-7e8928aa6820",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T12:59:06.519Z",
+      "finalizado_em": null,
+      "total_rm": 92,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "3f68f6dd-97b5-44f7-aa7d-7e48df45f63c",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T12:37:05.250Z",
+      "finalizado_em": null,
+      "total_rm": 92,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "19ae5b6a-62f1-4080-8f2e-bf760a5cfaa4",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T12:31:48.930Z",
+      "finalizado_em": "2026-07-16T12:33:42.300Z",
+      "total_rm": 92,
+      "cadastrados": 1,
+      "erros": 91,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "0a37978a-59e3-4330-82e4-3e38347bb098",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T12:28:31.494Z",
+      "finalizado_em": "2026-07-16T12:28:47.822Z",
+      "total_rm": 92,
+      "cadastrados": 0,
+      "erros": 92,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "44eb7cfb-ba0d-4d4d-8a00-6f5bd81125b0",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T11:47:51.721Z",
+      "finalizado_em": "2026-07-16T16:34:01.258Z",
+      "total_rm": 91,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "68968056-6e51-44d8-b228-f824f7d545d5",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T00:54:10.441Z",
+      "finalizado_em": "2026-07-16T02:54:53.580Z",
+      "total_rm": 91,
+      "cadastrados": 76,
+      "erros": 15,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "32f64498-9752-419f-8774-08e0ab421693",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T00:48:33.018Z",
+      "finalizado_em": null,
+      "total_rm": 91,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "5a3a0ebf-8b61-4f33-99dc-738c9ee1b09e",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T00:31:38.647Z",
+      "finalizado_em": null,
+      "total_rm": 91,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "1b06c701-60b7-4739-8ec0-ae6dccaecc66",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-16T00:25:23.016Z",
+      "finalizado_em": "2026-07-16T00:25:28.052Z",
+      "total_rm": 21,
+      "cadastrados": 0,
+      "erros": 21,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "da1c6e8e-f441-4c44-8216-81379dbfbbc4",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-16T00:15:57.787Z",
+      "finalizado_em": null,
+      "total_rm": 91,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "b9ab35d5-87f4-4eb2-b3c9-f5b5fe9d905b",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-15T23:55:23.429Z",
+      "finalizado_em": null,
+      "total_rm": 21,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "c77416fa-2c16-449f-bee5-b2eb20aae674",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-15T23:51:13.800Z",
+      "finalizado_em": null,
+      "total_rm": 21,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    }
+  ],
+  "execucoesPorDia": [
+    {
+      "dia": "2026-07-20T03:00:00.000Z",
+      "total": "2",
+      "cadastrados": "0",
+      "erros": "2"
+    },
+    {
+      "dia": "2026-07-19T03:00:00.000Z",
+      "total": "17",
+      "cadastrados": "9",
+      "erros": "13"
+    },
+    {
+      "dia": "2026-07-17T03:00:00.000Z",
+      "total": "14",
+      "cadastrados": "2",
+      "erros": "104"
+    },
+    {
+      "dia": "2026-07-16T03:00:00.000Z",
+      "total": "10",
+      "cadastrados": "83",
+      "erros": "196"
+    },
+    {
+      "dia": "2026-07-15T03:00:00.000Z",
+      "total": "12",
+      "cadastrados": "76",
+      "erros": "58"
+    }
+  ],
+  "cadastrados": [
+    {
+      "nome": "ADRIANO DOS SANTOS SILVA",
+      "cpf": "24333190304",
+      "chapa": "084033",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:53:11.471Z"
+    },
+    {
+      "nome": "ALAILTON MENEZES DA SILVA",
+      "cpf": "93738374353",
+      "chapa": "084032",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:51:46.079Z"
+    },
+    {
+      "nome": "ALEJANDRO DA CRUZ SILVA",
+      "cpf": "61939659396",
+      "chapa": "140171",
+      "empresa_cnpj": "08.543.039/0001-67",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:26:31.473Z"
+    },
+    {
+      "nome": "ALESSANDRA CATUGY SANTOS",
+      "cpf": "02167023561",
+      "chapa": "260169",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:35:02.496Z"
+    },
+    {
+      "nome": "ANA BEATRIZ DA CUNHA RODRIGUES",
+      "cpf": "01786227452",
+      "chapa": "260197",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:42:27.117Z"
+    },
+    {
+      "nome": "ANA CAROLINE DA SILVA RODRIGUES",
+      "cpf": "62357390360",
+      "chapa": "062789",
+      "empresa_cnpj": "02.336.498/0005-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T16:29:38.386Z"
+    },
+    {
+      "nome": "ANA LUIZA COSTA DE SABOIA",
+      "cpf": "62488266337",
+      "chapa": "140169",
+      "empresa_cnpj": "08.543.039/0001-67",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:24:57.799Z"
+    },
+    {
+      "nome": "ANDREA LIGIA DE OLIVEIRA VIEIRA EVANGELISTA",
+      "cpf": "00888740441",
+      "chapa": "260192",
+      "empresa_cnpj": "50.892.032/0003-89",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:02:53.447Z"
+    },
+    {
+      "nome": "ANTONIA LUANA UCHOA DA COSTA",
+      "cpf": "88440729391",
+      "chapa": "084036",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:58:09.764Z"
+    },
+    {
+      "nome": "ARYSON FARIAS VASCONCELOS PAULO",
+      "cpf": "07622038385",
+      "chapa": "094864",
+      "empresa_cnpj": "03.898.300/0001-28",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-17T16:21:32.094Z"
+    },
+    {
+      "nome": "BRUNA DE SOUSA NASCIMENTO",
+      "cpf": "62219640329",
+      "chapa": "115117",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:20:38.657Z"
+    },
+    {
+      "nome": "BRUNA MONTEIRO MELO FACANHA",
+      "cpf": "07966470385",
+      "chapa": "084028",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:46:04.502Z"
+    },
+    {
+      "nome": "BRUNO ROCHA GOMES",
+      "cpf": "05638832351",
+      "chapa": "230118",
+      "empresa_cnpj": "49.638.087/0001-16",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:30:46.944Z"
+    },
+    {
+      "nome": "CAILA PEREIRA DE CARVALHO",
+      "cpf": "09219283352",
+      "chapa": "120085",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T19:51:41.966Z"
+    },
+    {
+      "nome": "CAIO BRENO GOMES PEREIRA",
+      "cpf": "08277808348",
+      "chapa": "029362",
+      "empresa_cnpj": "07.379.340/0001-14",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:26:21.934Z"
+    },
+    {
+      "nome": "CAMILA ROBERTA CORREIA DE AQUINO LELES",
+      "cpf": "01958582395",
+      "chapa": "340054",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:48:10.365Z"
+    },
+    {
+      "nome": "CAMILA VIEIRA SILVA",
+      "cpf": "08811791324",
+      "chapa": "084026",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:43:12.846Z"
+    },
+    {
+      "nome": "CARLOS ALBERTO FERREIRA PINHEIRO",
+      "cpf": "61040132367",
+      "chapa": "062785",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:19:56.146Z"
+    },
+    {
+      "nome": "CASSIA KELLY SILVA ARAUJO",
+      "cpf": "60376990384",
+      "chapa": "062778",
+      "empresa_cnpj": "02.336.498/0005-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:12:51.311Z"
+    },
+    {
+      "nome": "CAUA LINCOLN NASCIMENTO DA SILVA",
+      "cpf": "07140385394",
+      "chapa": "062780",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:15:37.218Z"
+    },
+    {
+      "nome": "CICERA SAMARA SILVA SAMPAIO",
+      "cpf": "62259873391",
+      "chapa": "240067",
+      "empresa_cnpj": "49.700.590/0001-54",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:33:36.333Z"
+    },
+    {
+      "nome": "CLAUBER DOS SANTOS SILVA",
+      "cpf": "31952348315",
+      "chapa": "084023",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:38:57.019Z"
+    },
+    {
+      "nome": "CLAUDEMIR PEREIRA DAS CHAGAS",
+      "cpf": "06445379303",
+      "chapa": "115114",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:16:18.438Z"
+    },
+    {
+      "nome": "CLEIDSON BARROSO DE CARVALHO",
+      "cpf": "05064776306",
+      "chapa": "120086",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-19T21:43:30.921Z"
+    },
+    {
+      "nome": "CRISTIANO TEOTONIO SILVINO",
+      "cpf": "04932101309",
+      "chapa": "084041",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:05:17.757Z"
+    },
+    {
+      "nome": "DAVI MAIA ASSUNCAO",
+      "cpf": "60856195375",
+      "chapa": "071588",
+      "empresa_cnpj": "00.512.205/0001-56",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:00:02.413Z"
+    },
+    {
+      "nome": "DESIREE MARIA FONTINELES FILGUEIRA",
+      "cpf": "06696990399",
+      "chapa": "011567",
+      "empresa_cnpj": "41.451.030/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:23:20.213Z"
+    },
+    {
+      "nome": "DIEGO DE ARAUJO SILVA",
+      "cpf": "05882274478",
+      "chapa": "260188",
+      "empresa_cnpj": null,
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T13:55:55.815Z"
+    },
+    {
+      "nome": "ELIVELTO MONTEIRO DE OLIVEIRA",
+      "cpf": "61807294331",
+      "chapa": "011565",
+      "empresa_cnpj": "41.451.030/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:20:21.446Z"
+    },
+    {
+      "nome": "FABIO SILVA",
+      "cpf": "62609793391",
+      "chapa": "084042",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:06:41.367Z"
+    },
+    {
+      "nome": "FELIPE KENNEDY ALVES DE SOUSA",
+      "cpf": "05285890322",
+      "chapa": "160151",
+      "empresa_cnpj": "15.200.489/0001-12",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:27:56.550Z"
+    },
+    {
+      "nome": "FERNANDA CRISTINA DE OLIVEIRA ARCANJO",
+      "cpf": "08774276905",
+      "chapa": "084030",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:48:53.069Z"
+    },
+    {
+      "nome": "FRANCISCO ASSIS PAULO SILVA",
+      "cpf": "09738653347",
+      "chapa": "084038",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:00:59.510Z"
+    },
+    {
+      "nome": "FRANCISCO CHARLES ALCANTARA DE OLIVEIRA",
+      "cpf": "03499646374",
+      "chapa": "094862",
+      "empresa_cnpj": "03.898.300/0002-09",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:12:02.224Z"
+    },
+    {
+      "nome": "FRANCISCO CLEISON CRUZ PEREIRA",
+      "cpf": "05773747375",
+      "chapa": "120084",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T19:50:35.559Z"
+    },
+    {
+      "nome": "FRANCISCO DENILSON ROSA DE MORAIS",
+      "cpf": "07204994370",
+      "chapa": "240066",
+      "empresa_cnpj": "49.700.590/0001-54",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:32:11.565Z"
+    },
+    {
+      "nome": "FRANCISCO DENIS CAVALCANTE DO NASCIMENTO",
+      "cpf": "82186740397",
+      "chapa": "062792",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:30:28.545Z"
+    },
+    {
+      "nome": "FRANCISCO JONNATAN DOS SANTOS SOUZA",
+      "cpf": "04356494342",
+      "chapa": "062791",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:29:02.510Z"
+    },
+    {
+      "nome": "FRANCISCO RENAN DE SOUSA SILVA",
+      "cpf": "05692376377",
+      "chapa": "052187",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:30:52.188Z"
+    },
+    {
+      "nome": "GABRIEL MOTA RODRIGUES",
+      "cpf": "63460043369",
+      "chapa": "340056",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:51:02.965Z"
+    },
+    {
+      "nome": "GRAZIELA MARIA BARROSO DA SILVA",
+      "cpf": "08740025322",
+      "chapa": "101026",
+      "empresa_cnpj": "04.620.772/0001-87",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:14:53.134Z"
+    },
+    {
+      "nome": "GUIBSON BEZERRA DOS SANTOS",
+      "cpf": "62143309376",
+      "chapa": "115116",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:19:10.889Z"
+    },
+    {
+      "nome": "HUMBERTO HUDSON BENICIO MENDES",
+      "cpf": "04856601300",
+      "chapa": "052189",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:11:28.658Z"
+    },
+    {
+      "nome": "IGOR SABINO ALVES AMORIM",
+      "cpf": "04625246393",
+      "chapa": "115119",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:23:30.471Z"
+    },
+    {
+      "nome": "IRLENE FERREIRA DA SILVA",
+      "cpf": "64277739334",
+      "chapa": "084035",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:56:45.085Z"
+    },
+    {
+      "nome": "ISAIAS BALBINO DA SILVA",
+      "cpf": "02148756443",
+      "chapa": "260190",
+      "empresa_cnpj": null,
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T13:59:27.069Z"
+    },
+    {
+      "nome": "JHONES ELIS MARQUES VIEIRA",
+      "cpf": "00941488306",
+      "chapa": "084019",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:37:31.628Z"
+    },
+    {
+      "nome": "JOAO DE SOUZA ALMINO NETO",
+      "cpf": "10161838367",
+      "chapa": "071587",
+      "empresa_cnpj": "00.512.205/0001-56",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:31:54.349Z"
+    },
+    {
+      "nome": "JOAO DOS SANTOS COSTA",
+      "cpf": "91132959349",
+      "chapa": "052185",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-15T23:53:28.884Z"
+    },
+    {
+      "nome": "JOAO GLEYDSTONY TEIXEIRA FARIAS",
+      "cpf": "61748110349",
+      "chapa": "084040",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:03:51.668Z"
+    },
+    {
+      "nome": "JOAO LUIS MOURA SILVA",
+      "cpf": "91834945372",
+      "chapa": "084027",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:44:39.053Z"
+    },
+    {
+      "nome": "JOAO VICTOR RACHID FILGUEIRAS DA SILVA",
+      "cpf": "07655461325",
+      "chapa": "350007",
+      "empresa_cnpj": "62.279.024/0001-89",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:54:53.551Z"
+    },
+    {
+      "nome": "JOSE CARLOS MARQUES",
+      "cpf": "05651548424",
+      "chapa": "260189",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T13:57:46.911Z"
+    },
+    {
+      "nome": "JOSE MATHEUS GONCALVES DA ROCHA MAIA",
+      "cpf": "12512007456",
+      "chapa": "260191",
+      "empresa_cnpj": null,
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:01:02.763Z"
+    },
+    {
+      "nome": "JUAN PABLO MACIEL ROCHA",
+      "cpf": "62814098330",
+      "chapa": "084014",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:36:06.682Z"
+    },
+    {
+      "nome": "JULIO CESAR DOS SANTOS COSTA",
+      "cpf": "64076865391",
+      "chapa": "340052",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:46:44.417Z"
+    },
+    {
+      "nome": "KERGENES BILAR RIBEIRO",
+      "cpf": "06315027342",
+      "chapa": "084039",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:02:24.606Z"
+    },
+    {
+      "nome": "LARISSA CAMURI NUNES LIMA",
+      "cpf": "89543149372",
+      "chapa": "230117",
+      "empresa_cnpj": "49.638.087/0001-16",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:29:22.354Z"
+    },
+    {
+      "nome": "LEILA DAIANE DOS SANTOS TOMAZ",
+      "cpf": "35435122856",
+      "chapa": "340051",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:45:17.836Z"
+    },
+    {
+      "nome": "LETICIA DA SILVA",
+      "cpf": "62587180350",
+      "chapa": "084031",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:50:20.988Z"
+    },
+    {
+      "nome": "LIBNA VITORIA FERREIRA DE ARAUJO FRANCO",
+      "cpf": "06771350339",
+      "chapa": "094863",
+      "empresa_cnpj": "03.898.300/0007-13",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:13:27.132Z"
+    },
+    {
+      "nome": "LUIZ EDUARDO GOMES PAULA",
+      "cpf": "06456738385",
+      "chapa": "062787",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T12:18:55.111Z"
+    },
+    {
+      "nome": "MARCELO GOMES DA SILVA JUNIOR",
+      "cpf": "11017505454",
+      "chapa": "260196",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:41:01.761Z"
+    },
+    {
+      "nome": "MARCIA DE SOUZA CAVALCANTE",
+      "cpf": "01693785358",
+      "chapa": "062782",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:18:29.166Z"
+    },
+    {
+      "nome": "MARCIO ANDRE LOUREIRO SALLES",
+      "cpf": "61355046300",
+      "chapa": "052188",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:47:48.707Z"
+    },
+    {
+      "nome": "MARCOS VENICIUS VIEIRA LIMA FILHO",
+      "cpf": "07938803359",
+      "chapa": "071589",
+      "empresa_cnpj": "00.512.205/0001-56",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:34:42.763Z"
+    },
+    {
+      "nome": "MARIA RENATA BEZERRA BARBOSA",
+      "cpf": "05016954356",
+      "chapa": "084029",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:47:26.954Z"
+    },
+    {
+      "nome": "MARIA TATIANA BATISTA DA CRUZ SILVA",
+      "cpf": "64612953304",
+      "chapa": "084034",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:54:38.055Z"
+    },
+    {
+      "nome": "MATHEUS FERREIRA DA SILVA",
+      "cpf": "05028505314",
+      "chapa": "011566",
+      "empresa_cnpj": "41.451.030/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:21:51.937Z"
+    },
+    {
+      "nome": "MILLENA LIMA DA SILVA",
+      "cpf": "09290432357",
+      "chapa": "011564",
+      "empresa_cnpj": "41.451.030/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:18:53.766Z"
+    },
+    {
+      "nome": "MIRELLA MOREIRA DO VALE",
+      "cpf": "63387348355",
+      "chapa": "084043",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:07:47.807Z"
+    },
+    {
+      "nome": "NIVANALDO DE SOUSA DAS CHAGAS",
+      "cpf": "84599693391",
+      "chapa": "094860",
+      "empresa_cnpj": "03.898.300/0004-70",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:09:13.145Z"
+    },
+    {
+      "nome": "NOEME NASCIMENTO DOS SANTOS",
+      "cpf": "13252924862",
+      "chapa": "340058",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:53:28.682Z"
+    },
+    {
+      "nome": "OTACILIA CLEIA FERREIRA DE SOUZA",
+      "cpf": "08544103413",
+      "chapa": "260194",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:06:19.494Z"
+    },
+    {
+      "nome": "OZIAS CAVALCANTE OLIVEIRA",
+      "cpf": "08460445364",
+      "chapa": "340055",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:49:36.456Z"
+    },
+    {
+      "nome": "PAULO MARCIO MARTINS DE ABREU",
+      "cpf": "03365100393",
+      "chapa": "120087",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-19T21:43:30.926Z"
+    },
+    {
+      "nome": "RAFAEL DA SILVA",
+      "cpf": "04033042377",
+      "chapa": "120083",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T19:49:29.343Z"
+    },
+    {
+      "nome": "RAFAEL SILVESTRE DE SOUZA",
+      "cpf": "10086077384",
+      "chapa": "115115",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:17:44.829Z"
+    },
+    {
+      "nome": "RAISSA SIMOES INACIO",
+      "cpf": "10892252375",
+      "chapa": "062786",
+      "empresa_cnpj": "02.336.498/0005-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T12:17:29.458Z"
+    },
+    {
+      "nome": "RAMON BATISTA DO NASCIMENTO",
+      "cpf": "08153654462",
+      "chapa": "260187",
+      "empresa_cnpj": null,
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T13:54:00.676Z"
+    },
+    {
+      "nome": "RAPHAEL PIETRO CAU RIBEIRO CAMARGO",
+      "cpf": "47961334882",
+      "chapa": "140170",
+      "empresa_cnpj": "08.543.039/0001-67",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T16:29:38.391Z"
+    },
+    {
+      "nome": "RENAN AMORIM GONÇALVES",
+      "cpf": "04537079398",
+      "chapa": "062781",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:17:02.973Z"
+    },
+    {
+      "nome": "RENAN PIRES DE SOUZA",
+      "cpf": "62451027312",
+      "chapa": "084024",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:40:21.546Z"
+    },
+    {
+      "nome": "RIVANILSON PAIXAO ALMEIDA",
+      "cpf": "61639838317",
+      "chapa": "084037",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:59:34.407Z"
+    },
+    {
+      "nome": "ROBERTO MON VALETTE SANTOS DE OLIVEIRA",
+      "cpf": "05703009324",
+      "chapa": "094867",
+      "empresa_cnpj": "03.898.300/0005-51",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-19T21:43:30.758Z"
+    },
+    {
+      "nome": "RODRIGO VILLA REAL MENDES SALES",
+      "cpf": "06135435302",
+      "chapa": "084025",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:41:47.137Z"
+    },
+    {
+      "nome": "RUAN PABLO DE SOUSA LOURENÇO",
+      "cpf": "61071488333",
+      "chapa": "094861",
+      "empresa_cnpj": "03.898.300/0001-28",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:10:38.051Z"
+    },
+    {
+      "nome": "SILVESTRE DA SILVA DE OLIVEIRA",
+      "cpf": "63554008346",
+      "chapa": "052186",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-15T23:58:30.206Z"
+    },
+    {
+      "nome": "SUBERLAN DA SILVA XAVIER",
+      "cpf": "61096769344",
+      "chapa": "062779",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:14:13.934Z"
+    },
+    {
+      "nome": "TALISSON DE LIMA VIANA",
+      "cpf": "63674111357",
+      "chapa": "011563",
+      "empresa_cnpj": "41.451.030/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:17:27.850Z"
+    },
+    {
+      "nome": "TASSIANE SILVA DE SOUSA",
+      "cpf": "04287759346",
+      "chapa": "340050",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:43:51.246Z"
+    },
+    {
+      "nome": "TIAGO VICTOR SIQUEIRA GUIMARAES",
+      "cpf": "02955271373",
+      "chapa": "062788",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T12:20:22.384Z"
+    },
+    {
+      "nome": "VALDENILSON DA SILVA SANTOS",
+      "cpf": "04061100181",
+      "chapa": "115118",
+      "empresa_cnpj": "04.620.686/0001-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:22:04.493Z"
+    },
+    {
+      "nome": "VANESSA DO NASCIMENTO AGOSTINHO",
+      "cpf": "06721846306",
+      "chapa": "029361",
+      "empresa_cnpj": "07.379.340/0001-14",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:24:50.416Z"
+    },
+    {
+      "nome": "WANDERSON DA COSTA CAMARA",
+      "cpf": "05992976469",
+      "chapa": "260193",
+      "empresa_cnpj": "50.892.032/0001-17",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:04:36.934Z"
+    },
+    {
+      "nome": "WESLLEY FRANCKLIN DE ASSIS",
+      "cpf": "60021933324",
+      "chapa": "062790",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:27:36.589Z"
+    },
+    {
+      "nome": "YAN BORGES DA SILVA CAMPELO",
+      "cpf": "13701889430",
+      "chapa": "260195",
+      "empresa_cnpj": null,
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:07:54.445Z"
+    },
+    {
+      "nome": "YANA ADRIELLE FERREIRA DE MIRANDA",
+      "cpf": "61837470332",
+      "chapa": "094866",
+      "empresa_cnpj": "03.898.300/0001-28",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-17T16:21:32.136Z"
+    }
+  ],
+  "errosPorTipo": [
+    {
+      "status": "ERRO_AUTOMACAO",
+      "qtd": "126"
+    },
+    {
+      "status": "ERRO_API",
+      "qtd": "246"
+    }
+  ]
+}

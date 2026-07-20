@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admitidos RM → Faceum - Monitor</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>📊 ADMITIDOS RM → FACEUM</h1>
+      <div class="header-status">
+        <span id="status-indicator" class="status-badge status-online">● ONLINE</span>
+        <span id="last-update">Última atualização: --:--</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="cards-row">
+      <div class="card card-primary">
+        <div class="card-icon">📋</div>
+        <div class="card-content">
+          <div class="card-value" id="total-execucoes">0</div>
+          <div class="card-label">Total Execuções</div>
+        </div>
+      </div>
+      <div class="card card-success">
+        <div class="card-icon">✅</div>
+        <div class="card-content">
+          <div class="card-value" id="total-cadastrados">0</div>
+          <div class="card-label">Cadastrados</div>
+        </div>
+      </div>
+      <div class="card card-warning">
+        <div class="card-icon">⏭️</div>
+        <div class="card-content">
+          <div class="card-value" id="total-ja-existiam">0</div>
+          <div class="card-label">Já Existiam</div>
+        </div>
+      </div>
+      <div class="card card-danger">
+        <div class="card-icon">❌</div>
+        <div class="card-content">
+          <div class="card-value" id="total-erros">0</div>
+          <div class="card-label">Erros</div>
+        </div>
+      </div>
+      <div class="card card-info">
+        <div class="card-icon">⏱️</div>
+        <div class="card-content">
+          <div class="card-value" id="media-duracao">--</div>
+          <div class="card-label">Duração Média</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="table-section">
+      <h3>📋 Últimas Execuções</h3>
+      <div class="table-container">
+        <table id="tabela-execucoes">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Tipo</th>
+              <th>Início</th>
+              <th>Fim</th>
+              <th>Duração</th>
+              <th>Status</th>
+              <th>Cadastrados</th>
+              <th>Erros</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-execucoes">
+            <tr><td colspan="8" class="loading">Carregando...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="table-section">
+      <h3>✅ Funcionários Cadastrados</h3>
+      <div class="filters">
+        <input type="text" id="filter-busca" placeholder="Buscar por nome ou CPF...">
+        <select id="filter-status-cadastrado">
+          <option value="">Todos</option>
+          <option value="CADASTRADO">Cadastrados</option>
+          <option value="JA_EXISTIA">Já Existiam</option>
+        </select>
+      </div>
+      <div class="table-container">
+        <table id="tabela-cadastrados">
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>CPF</th>
+              <th>Chapa</th>
+              <th>Empresa</th>
+              <th>Status</th>
+              <th>Primeiro Registro</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-cadastrados">
+            <tr><td colspan="6" class="loading">Carregando...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Admitidos RM → Faceum Monitor | Dados exportados automaticamente</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
