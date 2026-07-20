@@ -56,6 +56,37 @@
       </div>
     </section>
 
+    <!-- Funcionários Cadastrados -->
+    <section class="table-section">
+      <h3>✅ Funcionários Cadastrados</h3>
+      <div class="filters">
+        <select id="filter-cadastrados-status">
+          <option value="">Todos</option>
+          <option value="CADASTRADO">Cadastrados</option>
+          <option value="JA_EXISTIA">Já Existiam</option>
+        </select>
+        <input type="text" id="filter-cadastrados-busca" placeholder="Buscar nome ou CPF...">
+      </div>
+      <div class="table-container">
+        <table id="tabela-cadastrados">
+          <thead>
+            <tr>
+              <th>Nome</th>
+              <th>CPF</th>
+              <th>Chapa</th>
+              <th>Empresa</th>
+              <th>Status</th>
+              <th>Primeiro Registro</th>
+            </tr>
+          </thead>
+          <tbody id="tbody-cadastrados">
+            <tr><td colspan="6" class="loading">Carregando...</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Últimas Execuções -->
     <section class="table-section">
       <h3>📋 Últimas Execuções</h3>
       <div class="table-container">
@@ -79,34 +110,6 @@
       </div>
     </section>
 
-    <section class="table-section">
-      <h3>✅ Funcionários Cadastrados</h3>
-      <div class="filters">
-        <input type="text" id="filter-busca" placeholder="Buscar por nome ou CPF...">
-        <select id="filter-status-cadastrado">
-          <option value="">Todos</option>
-          <option value="CADASTRADO">Cadastrados</option>
-          <option value="JA_EXISTIA">Já Existiam</option>
-        </select>
-      </div>
-      <div class="table-container">
-        <table id="tabela-cadastrados">
-          <thead>
-            <tr>
-              <th>Nome</th>
-              <th>CPF</th>
-              <th>Chapa</th>
-              <th>Empresa</th>
-              <th>Status</th>
-              <th>Primeiro Registro</th>
-            </tr>
-          </thead>
-          <tbody id="tbody-cadastrados">
-            <tr><td colspan="6" class="loading">Carregando...</td></tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
   </main>
 
   <footer>

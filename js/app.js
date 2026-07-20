@@ -132,8 +132,8 @@ const App = {
   },
 
   setupFilters() {
-    const filterBusca = document.getElementById('filter-busca');
-    const filterStatus = document.getElementById('filter-status-cadastrado');
+    const filterBusca = document.getElementById('filter-cadastrados-busca');
+    const filterStatus = document.getElementById('filter-cadastrados-status');
 
     const aplicarFiltros = () => {
       this.renderCadastrados({
