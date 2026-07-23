@@ -1,18 +1,42 @@
 {
-  "atualizado_em": "2026-07-23T11:44:25.865Z",
+  "atualizado_em": "2026-07-23T11:49:24.698Z",
   "resumo": {
-    "total": 2426,
+    "total": 2428,
     "cadastrados": 294,
-    "jaExistiam": 0,
+    "jaExistiam": 1,
     "erros": 385,
-    "pendentes": 1747
+    "pendentes": 1748
   },
   "metricas": {
-    "totalExecucoes": 69,
-    "execucoesHoje": 1,
-    "mediaDuracaoSegundos": 827
+    "totalExecucoes": 71,
+    "execucoesHoje": 3,
+    "mediaDuracaoSegundos": 387
   },
   "execucoes": [
+    {
+      "id": "239205d1-de9b-4cb8-9aa0-88df40b17718",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-23T11:46:06.731Z",
+      "finalizado_em": "2026-07-23T11:46:07.694Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 1,
+      "pendentes": 0
+    },
+    {
+      "id": "67860c0b-893f-4ebb-9991-a64cfbfbf0ed",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-23T11:45:07.162Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
     {
       "id": "87bbf6a1-a161-404f-938f-c726638c6f5e",
       "tipo": "AUTO",
@@ -588,36 +612,12 @@
       "erros": 12,
       "ja_existiam": 0,
       "pendentes": 0
-    },
-    {
-      "id": "9eff19fa-decd-4d35-9b1a-7be59cc37d1c",
-      "tipo": "AUTO",
-      "status": "EM_ANDAMENTO",
-      "iniciado_em": "2026-07-16T17:01:48.054Z",
-      "finalizado_em": null,
-      "total_rm": 21,
-      "cadastrados": 0,
-      "erros": 0,
-      "ja_existiam": 0,
-      "pendentes": 0
-    },
-    {
-      "id": "6525b9bc-52ec-4cdf-95f9-503e7235e6fc",
-      "tipo": "AUTO",
-      "status": "EM_ANDAMENTO",
-      "iniciado_em": "2026-07-16T16:45:49.690Z",
-      "finalizado_em": null,
-      "total_rm": 94,
-      "cadastrados": 0,
-      "erros": 0,
-      "ja_existiam": 0,
-      "pendentes": 0
     }
   ],
   "execucoesPorDia": [
     {
       "dia": "2026-07-23T03:00:00.000Z",
-      "total": "1",
+      "total": "3",
       "cadastrados": "0",
       "erros": "1"
     },
@@ -653,9 +653,9 @@
     },
     {
       "dia": "2026-07-16T03:00:00.000Z",
-      "total": "10",
+      "total": "9",
       "cadastrados": "83",
-      "erros": "196"
+      "erros": "195"
     }
   ],
   "cadastrados": [
@@ -1338,6 +1338,14 @@
       "empresa_cnpj": "03.898.300/0005-51",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-19T21:43:30.758Z"
+    },
+    {
+      "nome": "RODRIGO FERNANDES TARGINO DE SOUZA",
+      "cpf": "04965037316",
+      "chapa": "340057",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:46:07.642Z"
     },
     {
       "nome": "RODRIGO VILLA REAL MENDES SALES",
