@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-23T16:44:25.235Z",
+  "atualizado_em": "2026-07-23T16:49:25.203Z",
   "resumo": {
     "total": 2428,
     "cadastrados": 294,
@@ -653,7 +653,7 @@
     },
     {
       "dia": "2026-07-16T03:00:00.000Z",
-      "total": "3",
+      "total": "2",
       "cadastrados": "82",
       "erros": "12"
     }
