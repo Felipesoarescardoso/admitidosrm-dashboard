@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-26T02:59:33.932Z",
+  "atualizado_em": "2026-07-26T03:04:34.075Z",
   "resumo": {
     "total": 2516,
     "cadastrados": 294,
@@ -9,7 +9,7 @@
   },
   "metricas": {
     "totalExecucoes": 78,
-    "execucoesHoje": 4,
+    "execucoesHoje": 0,
     "mediaDuracaoSegundos": 537
   },
   "execucoes": [
