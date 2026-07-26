@@ -1,18 +1,42 @@
 {
-  "atualizado_em": "2026-07-26T17:54:36.693Z",
+  "atualizado_em": "2026-07-26T17:59:36.426Z",
   "resumo": {
-    "total": 2568,
+    "total": 2570,
     "cadastrados": 294,
     "jaExistiam": 140,
-    "erros": 373,
-    "pendentes": 1761
+    "erros": 374,
+    "pendentes": 1762
   },
   "metricas": {
-    "totalExecucoes": 102,
-    "execucoesHoje": 24,
-    "mediaDuracaoSegundos": 548
+    "totalExecucoes": 104,
+    "execucoesHoje": 26,
+    "mediaDuracaoSegundos": 539
   },
   "execucoes": [
+    {
+      "id": "456a1199-3e50-43cd-b7ad-7e89f301d0f2",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-26T17:57:46.380Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "16e7928e-30f9-4d70-a8f0-3bc7a5af7795",
+      "tipo": "AUTO",
+      "status": "CONCLUIDO",
+      "iniciado_em": "2026-07-26T17:54:36.804Z",
+      "finalizado_em": "2026-07-26T17:56:14.218Z",
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 1,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
     {
       "id": "7c304a69-d436-45a0-9209-7fabbc7e3299",
       "tipo": "AUTO",
@@ -588,38 +612,14 @@
       "erros": 1,
       "ja_existiam": 0,
       "pendentes": 0
-    },
-    {
-      "id": "3b02817f-b898-40cf-94c9-56c06e2f00b4",
-      "tipo": "AUTO",
-      "status": "CONCLUIDO",
-      "iniciado_em": "2026-07-20T08:00:06.387Z",
-      "finalizado_em": "2026-07-20T08:00:45.980Z",
-      "total_rm": 1,
-      "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
-      "pendentes": 0
-    },
-    {
-      "id": "ed7b7ccf-b99d-4b47-863d-c5f583e5f6bf",
-      "tipo": "AUTO",
-      "status": "CONCLUIDO",
-      "iniciado_em": "2026-07-20T01:00:05.317Z",
-      "finalizado_em": "2026-07-20T01:00:46.536Z",
-      "total_rm": 1,
-      "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
-      "pendentes": 0
     }
   ],
   "execucoesPorDia": [
     {
       "dia": "2026-07-26T03:00:00.000Z",
-      "total": "24",
+      "total": "26",
       "cadastrados": "0",
-      "erros": "39"
+      "erros": "40"
     },
     {
       "dia": "2026-07-25T03:00:00.000Z",
@@ -2249,7 +2249,7 @@
     },
     {
       "status": "ERRO_AUTOMACAO",
-      "qtd": "127"
+      "qtd": "128"
     }
   ]
 }
