@@ -1,11 +1,11 @@
 {
-  "atualizado_em": "2026-07-26T22:29:39.845Z",
+  "atualizado_em": "2026-07-26T22:34:39.315Z",
   "resumo": {
     "total": 2587,
     "cadastrados": 310,
-    "jaExistiam": 1781,
+    "jaExistiam": 1879,
     "erros": 374,
-    "pendentes": 122
+    "pendentes": 24
   },
   "metricas": {
     "totalExecucoes": 108,
