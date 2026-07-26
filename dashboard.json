@@ -1,18 +1,42 @@
 {
-  "atualizado_em": "2026-07-26T17:24:36.605Z",
+  "atualizado_em": "2026-07-26T17:29:36.707Z",
   "resumo": {
-    "total": 2564,
+    "total": 2566,
     "cadastrados": 294,
     "jaExistiam": 140,
     "erros": 372,
-    "pendentes": 1758
+    "pendentes": 1760
   },
   "metricas": {
-    "totalExecucoes": 98,
-    "execucoesHoje": 20,
+    "totalExecucoes": 100,
+    "execucoesHoje": 22,
     "mediaDuracaoSegundos": 558
   },
   "execucoes": [
+    {
+      "id": "eb2a070c-b64d-40af-bc65-9ba5ba9d75ae",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-26T17:27:01.388Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
+    {
+      "id": "8173b2cf-7f1f-45c3-be09-44a803f4db32",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-07-26T17:24:55.857Z",
+      "finalizado_em": null,
+      "total_rm": 1,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
     {
       "id": "c935774d-6bc1-421e-a719-d8da01a64eaa",
       "tipo": "AUTO",
@@ -588,36 +612,12 @@
       "erros": 1,
       "ja_existiam": 0,
       "pendentes": 0
-    },
-    {
-      "id": "635d2c7b-e5ed-4eb2-9651-bfa7bee7fa8e",
-      "tipo": "AUTO",
-      "status": "CONCLUIDO",
-      "iniciado_em": "2026-07-20T00:10:54.266Z",
-      "finalizado_em": "2026-07-20T00:13:03.555Z",
-      "total_rm": 1,
-      "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
-      "pendentes": 0
-    },
-    {
-      "id": "7adf9518-4ca3-4630-8bbb-30919b76fabf",
-      "tipo": "AUTO",
-      "status": "CONCLUIDO",
-      "iniciado_em": "2026-07-19T22:24:50.674Z",
-      "finalizado_em": "2026-07-19T22:25:52.557Z",
-      "total_rm": 1,
-      "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
-      "pendentes": 0
     }
   ],
   "execucoesPorDia": [
     {
       "dia": "2026-07-26T03:00:00.000Z",
-      "total": "20",
+      "total": "22",
       "cadastrados": "0",
       "erros": "38"
     },
