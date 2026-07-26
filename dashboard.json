@@ -1,16 +1,16 @@
 {
-  "atualizado_em": "2026-07-26T22:09:38.598Z",
+  "atualizado_em": "2026-07-26T22:14:37.610Z",
   "resumo": {
     "total": 2587,
     "cadastrados": 310,
-    "jaExistiam": 140,
-    "erros": 376,
-    "pendentes": 1761
+    "jaExistiam": 526,
+    "erros": 374,
+    "pendentes": 1377
   },
   "metricas": {
     "totalExecucoes": 108,
     "execucoesHoje": 30,
-    "mediaDuracaoSegundos": 879
+    "mediaDuracaoSegundos": 1488
   },
   "execucoes": [
     {
@@ -42,11 +42,11 @@
       "tipo": "AUTO",
       "status": "CONCLUIDO",
       "iniciado_em": "2026-07-26T18:09:43.393Z",
-      "finalizado_em": "2026-07-26T18:11:01.074Z",
+      "finalizado_em": "2026-07-26T22:12:32.139Z",
       "total_rm": 1,
       "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
+      "erros": 0,
+      "ja_existiam": 1,
       "pendentes": 0
     },
     {
@@ -54,11 +54,11 @@
       "tipo": "AUTO",
       "status": "CONCLUIDO",
       "iniciado_em": "2026-07-26T18:05:54.189Z",
-      "finalizado_em": "2026-07-26T18:07:11.009Z",
+      "finalizado_em": "2026-07-26T22:12:11.199Z",
       "total_rm": 1,
       "cadastrados": 0,
-      "erros": 1,
-      "ja_existiam": 0,
+      "erros": 0,
+      "ja_existiam": 1,
       "pendentes": 0
     },
     {
@@ -619,7 +619,7 @@
       "dia": "2026-07-26T03:00:00.000Z",
       "total": "30",
       "cadastrados": "16",
-      "erros": "42"
+      "erros": "40"
     },
     {
       "dia": "2026-07-25T03:00:00.000Z",
@@ -670,24 +670,16 @@
       "cpf": "24333190304",
       "chapa": "084033",
       "empresa_cnpj": "03.935.677/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:13.512Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:53:11.471Z"
     },
     {
       "nome": "ADRIANO DOS SANTOS SILVA",
       "cpf": "24333190304",
       "chapa": "084033",
       "empresa_cnpj": "03.935.677/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:53:11.471Z"
-    },
-    {
-      "nome": "ALAILTON MENEZES DA SILVA",
-      "cpf": "93738374353",
-      "chapa": "084032",
-      "empresa_cnpj": "03.935.677/0003-71",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:14.295Z"
+      "primeiro_registro": "2026-07-23T11:56:13.512Z"
     },
     {
       "nome": "ALAILTON MENEZES DA SILVA",
@@ -698,12 +690,12 @@
       "primeiro_registro": "2026-07-16T01:51:46.079Z"
     },
     {
-      "nome": "ALEJANDRO DA CRUZ SILVA",
-      "cpf": "61939659396",
-      "chapa": "140171",
-      "empresa_cnpj": "08.543.039/0001-67",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:26:31.473Z"
+      "nome": "ALAILTON MENEZES DA SILVA",
+      "cpf": "93738374353",
+      "chapa": "084032",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:14.295Z"
     },
     {
       "nome": "ALEJANDRO DA CRUZ SILVA",
@@ -712,6 +704,14 @@
       "empresa_cnpj": "08.543.039/0001-67",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:56:15.005Z"
+    },
+    {
+      "nome": "ALEJANDRO DA CRUZ SILVA",
+      "cpf": "61939659396",
+      "chapa": "140171",
+      "empresa_cnpj": "08.543.039/0001-67",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:26:31.473Z"
     },
     {
       "nome": "ALESSANDRA CATUGY SANTOS",
@@ -734,24 +734,16 @@
       "cpf": "01786227452",
       "chapa": "260197",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:16.491Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:42:27.117Z"
     },
     {
       "nome": "ANA BEATRIZ DA CUNHA RODRIGUES",
       "cpf": "01786227452",
       "chapa": "260197",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:42:27.117Z"
-    },
-    {
-      "nome": "ANA CAROLINE DA SILVA RODRIGUES",
-      "cpf": "62357390360",
-      "chapa": "062789",
-      "empresa_cnpj": "02.336.498/0005-17",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:17.186Z"
+      "primeiro_registro": "2026-07-23T11:56:16.491Z"
     },
     {
       "nome": "ANA CAROLINE DA SILVA RODRIGUES",
@@ -760,6 +752,14 @@
       "empresa_cnpj": "02.336.498/0005-17",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T16:29:38.386Z"
+    },
+    {
+      "nome": "ANA CAROLINE DA SILVA RODRIGUES",
+      "cpf": "62357390360",
+      "chapa": "062789",
+      "empresa_cnpj": "02.336.498/0005-17",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:17.186Z"
     },
     {
       "nome": "ANA LUIZA COSTA DE SABOIA",
@@ -782,24 +782,16 @@
       "cpf": "00888740441",
       "chapa": "260192",
       "empresa_cnpj": "50.892.032/0003-89",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:18.628Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:02:53.447Z"
     },
     {
       "nome": "ANDREA LIGIA DE OLIVEIRA VIEIRA EVANGELISTA",
       "cpf": "00888740441",
       "chapa": "260192",
       "empresa_cnpj": "50.892.032/0003-89",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T14:02:53.447Z"
-    },
-    {
-      "nome": "ANTONIA LUANA UCHOA DA COSTA",
-      "cpf": "88440729391",
-      "chapa": "084036",
-      "empresa_cnpj": "03.935.677/0001-00",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:19.709Z"
+      "primeiro_registro": "2026-07-23T11:56:18.628Z"
     },
     {
       "nome": "ANTONIA LUANA UCHOA DA COSTA",
@@ -808,6 +800,14 @@
       "empresa_cnpj": "03.935.677/0001-00",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T01:58:09.764Z"
+    },
+    {
+      "nome": "ANTONIA LUANA UCHOA DA COSTA",
+      "cpf": "88440729391",
+      "chapa": "084036",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:19.709Z"
     },
     {
       "nome": "ARYSON FARIAS VASCONCELOS PAULO",
@@ -830,16 +830,16 @@
       "cpf": "62219640329",
       "chapa": "115117",
       "empresa_cnpj": "04.620.686/0001-74",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:20:38.657Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:21.100Z"
     },
     {
       "nome": "BRUNA DE SOUSA NASCIMENTO",
       "cpf": "62219640329",
       "chapa": "115117",
       "empresa_cnpj": "04.620.686/0001-74",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:21.100Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:20:38.657Z"
     },
     {
       "nome": "BRUNA MONTEIRO MELO FACANHA",
@@ -862,16 +862,16 @@
       "cpf": "05638832351",
       "chapa": "230118",
       "empresa_cnpj": "49.638.087/0001-16",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:22.476Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:30:46.944Z"
     },
     {
       "nome": "BRUNO ROCHA GOMES",
       "cpf": "05638832351",
       "chapa": "230118",
       "empresa_cnpj": "49.638.087/0001-16",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:30:46.944Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:22.476Z"
     },
     {
       "nome": "CAILA PEREIRA DE CARVALHO",
@@ -894,24 +894,16 @@
       "cpf": "08277808348",
       "chapa": "029362",
       "empresa_cnpj": "07.379.340/0001-14",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:23.981Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:26:21.934Z"
     },
     {
       "nome": "CAIO BRENO GOMES PEREIRA",
       "cpf": "08277808348",
       "chapa": "029362",
       "empresa_cnpj": "07.379.340/0001-14",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:26:21.934Z"
-    },
-    {
-      "nome": "CAMILA ROBERTA CORREIA DE AQUINO LELES",
-      "cpf": "01958582395",
-      "chapa": "340054",
-      "empresa_cnpj": "58.505.621/0001-07",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:24.700Z"
+      "primeiro_registro": "2026-07-23T11:56:23.981Z"
     },
     {
       "nome": "CAMILA ROBERTA CORREIA DE AQUINO LELES",
@@ -922,12 +914,12 @@
       "primeiro_registro": "2026-07-16T02:48:10.365Z"
     },
     {
-      "nome": "CAMILA VIEIRA SILVA",
-      "cpf": "08811791324",
-      "chapa": "084026",
-      "empresa_cnpj": "03.935.677/0003-71",
+      "nome": "CAMILA ROBERTA CORREIA DE AQUINO LELES",
+      "cpf": "01958582395",
+      "chapa": "340054",
+      "empresa_cnpj": "58.505.621/0001-07",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:25.385Z"
+      "primeiro_registro": "2026-07-23T11:56:24.700Z"
     },
     {
       "nome": "CAMILA VIEIRA SILVA",
@@ -938,12 +930,12 @@
       "primeiro_registro": "2026-07-16T01:43:12.846Z"
     },
     {
-      "nome": "CARLOS ALBERTO FERREIRA PINHEIRO",
-      "cpf": "61040132367",
-      "chapa": "062785",
-      "empresa_cnpj": "02.336.498/0002-74",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:19:56.146Z"
+      "nome": "CAMILA VIEIRA SILVA",
+      "cpf": "08811791324",
+      "chapa": "084026",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:25.385Z"
     },
     {
       "nome": "CARLOS ALBERTO FERREIRA PINHEIRO",
@@ -954,12 +946,12 @@
       "primeiro_registro": "2026-07-23T11:56:26.064Z"
     },
     {
-      "nome": "CASSIA KELLY SILVA ARAUJO",
-      "cpf": "60376990384",
-      "chapa": "062778",
-      "empresa_cnpj": "02.336.498/0005-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:26.800Z"
+      "nome": "CARLOS ALBERTO FERREIRA PINHEIRO",
+      "cpf": "61040132367",
+      "chapa": "062785",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:19:56.146Z"
     },
     {
       "nome": "CASSIA KELLY SILVA ARAUJO",
@@ -970,12 +962,12 @@
       "primeiro_registro": "2026-07-16T01:12:51.311Z"
     },
     {
-      "nome": "CAUA LINCOLN NASCIMENTO DA SILVA",
-      "cpf": "07140385394",
-      "chapa": "062780",
-      "empresa_cnpj": "02.336.498/0002-74",
+      "nome": "CASSIA KELLY SILVA ARAUJO",
+      "cpf": "60376990384",
+      "chapa": "062778",
+      "empresa_cnpj": "02.336.498/0005-17",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:27.536Z"
+      "primeiro_registro": "2026-07-23T11:56:26.800Z"
     },
     {
       "nome": "CAUA LINCOLN NASCIMENTO DA SILVA",
@@ -984,6 +976,14 @@
       "empresa_cnpj": "02.336.498/0002-74",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T01:15:37.218Z"
+    },
+    {
+      "nome": "CAUA LINCOLN NASCIMENTO DA SILVA",
+      "cpf": "07140385394",
+      "chapa": "062780",
+      "empresa_cnpj": "02.336.498/0002-74",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:27.536Z"
     },
     {
       "nome": "CICERA SAMARA SILVA SAMPAIO",
@@ -1038,16 +1038,16 @@
       "cpf": "05064776306",
       "chapa": "120086",
       "empresa_cnpj": "04.891.294/0001-40",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-19T21:43:30.921Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:30.634Z"
     },
     {
       "nome": "CLEIDSON BARROSO DE CARVALHO",
       "cpf": "05064776306",
       "chapa": "120086",
       "empresa_cnpj": "04.891.294/0001-40",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:30.634Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-19T21:43:30.921Z"
     },
     {
       "nome": "CLIDIANO OLIVEIRA DOS SANTOS",
@@ -1062,16 +1062,16 @@
       "cpf": "04932101309",
       "chapa": "084041",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:05:17.757Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:31.348Z"
     },
     {
       "nome": "CRISTIANO TEOTONIO SILVINO",
       "cpf": "04932101309",
       "chapa": "084041",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:31.348Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:05:17.757Z"
     },
     {
       "nome": "DAVI MAIA ASSUNCAO",
@@ -1094,24 +1094,16 @@
       "cpf": "06696990399",
       "chapa": "011567",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:32.792Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:23:20.213Z"
     },
     {
       "nome": "DESIREE MARIA FONTINELES FILGUEIRA",
       "cpf": "06696990399",
       "chapa": "011567",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:23:20.213Z"
-    },
-    {
-      "nome": "DIEGO DE ARAUJO SILVA",
-      "cpf": "05882274478",
-      "chapa": "260188",
-      "empresa_cnpj": null,
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:33.547Z"
+      "primeiro_registro": "2026-07-23T11:56:32.792Z"
     },
     {
       "nome": "DIEGO DE ARAUJO SILVA",
@@ -1120,6 +1112,14 @@
       "empresa_cnpj": null,
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T13:55:55.815Z"
+    },
+    {
+      "nome": "DIEGO DE ARAUJO SILVA",
+      "cpf": "05882274478",
+      "chapa": "260188",
+      "empresa_cnpj": null,
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:33.547Z"
     },
     {
       "nome": "EDUARDO MACIEL SOUZA",
@@ -1134,16 +1134,16 @@
       "cpf": "61807294331",
       "chapa": "011565",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:20:21.446Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:34.248Z"
     },
     {
       "nome": "ELIVELTO MONTEIRO DE OLIVEIRA",
       "cpf": "61807294331",
       "chapa": "011565",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:34.248Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:20:21.446Z"
     },
     {
       "nome": "ERIC BARBOSA FERREIRA",
@@ -1166,16 +1166,16 @@
       "cpf": "62609793391",
       "chapa": "084042",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:06:41.367Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:34.939Z"
     },
     {
       "nome": "FABIO SILVA",
       "cpf": "62609793391",
       "chapa": "084042",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:34.939Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:06:41.367Z"
     },
     {
       "nome": "FELIPE CARVALHO LABEYRIE",
@@ -1190,24 +1190,16 @@
       "cpf": "05285890322",
       "chapa": "160151",
       "empresa_cnpj": "15.200.489/0001-12",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:27:56.550Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:35.611Z"
     },
     {
       "nome": "FELIPE KENNEDY ALVES DE SOUSA",
       "cpf": "05285890322",
       "chapa": "160151",
       "empresa_cnpj": "15.200.489/0001-12",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:35.611Z"
-    },
-    {
-      "nome": "FERNANDA CRISTINA DE OLIVEIRA ARCANJO",
-      "cpf": "08774276905",
-      "chapa": "084030",
-      "empresa_cnpj": "03.935.677/0001-00",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:48:53.069Z"
+      "primeiro_registro": "2026-07-16T02:27:56.550Z"
     },
     {
       "nome": "FERNANDA CRISTINA DE OLIVEIRA ARCANJO",
@@ -1216,6 +1208,14 @@
       "empresa_cnpj": "03.935.677/0001-00",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:56:36.303Z"
+    },
+    {
+      "nome": "FERNANDA CRISTINA DE OLIVEIRA ARCANJO",
+      "cpf": "08774276905",
+      "chapa": "084030",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:48:53.069Z"
     },
     {
       "nome": "FLAVIO DA SILVA ARAUJO",
@@ -1230,24 +1230,16 @@
       "cpf": "09738653347",
       "chapa": "084038",
       "empresa_cnpj": "03.935.677/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:00:59.510Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:37.016Z"
     },
     {
       "nome": "FRANCISCO ASSIS PAULO SILVA",
       "cpf": "09738653347",
       "chapa": "084038",
       "empresa_cnpj": "03.935.677/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:37.016Z"
-    },
-    {
-      "nome": "FRANCISCO CHARLES ALCANTARA DE OLIVEIRA",
-      "cpf": "03499646374",
-      "chapa": "094862",
-      "empresa_cnpj": "03.898.300/0002-09",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:37.692Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:00:59.510Z"
     },
     {
       "nome": "FRANCISCO CHARLES ALCANTARA DE OLIVEIRA",
@@ -1256,6 +1248,14 @@
       "empresa_cnpj": "03.898.300/0002-09",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T02:12:02.224Z"
+    },
+    {
+      "nome": "FRANCISCO CHARLES ALCANTARA DE OLIVEIRA",
+      "cpf": "03499646374",
+      "chapa": "094862",
+      "empresa_cnpj": "03.898.300/0002-09",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:37.692Z"
     },
     {
       "nome": "FRANCISCO CLEISON CRUZ PEREIRA",
@@ -1278,16 +1278,16 @@
       "cpf": "07204994370",
       "chapa": "240066",
       "empresa_cnpj": "49.700.590/0001-54",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:32:11.565Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:39.082Z"
     },
     {
       "nome": "FRANCISCO DENILSON ROSA DE MORAIS",
       "cpf": "07204994370",
       "chapa": "240066",
       "empresa_cnpj": "49.700.590/0001-54",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:39.082Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:32:11.565Z"
     },
     {
       "nome": "FRANCISCO DENIS CAVALCANTE DO NASCIMENTO",
@@ -1310,24 +1310,16 @@
       "cpf": "04356494342",
       "chapa": "062791",
       "empresa_cnpj": "02.336.498/0001-93",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:29:02.510Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:40.449Z"
     },
     {
       "nome": "FRANCISCO JONNATAN DOS SANTOS SOUZA",
       "cpf": "04356494342",
       "chapa": "062791",
       "empresa_cnpj": "02.336.498/0001-93",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:40.449Z"
-    },
-    {
-      "nome": "FRANCISCO RENAN DE SOUSA SILVA",
-      "cpf": "05692376377",
-      "chapa": "052187",
-      "empresa_cnpj": "00.064.336/0001-18",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:30:52.188Z"
+      "primeiro_registro": "2026-07-16T01:29:02.510Z"
     },
     {
       "nome": "FRANCISCO RENAN DE SOUSA SILVA",
@@ -1338,12 +1330,12 @@
       "primeiro_registro": "2026-07-23T11:56:41.130Z"
     },
     {
-      "nome": "GABRIEL MOTA RODRIGUES",
-      "cpf": "63460043369",
-      "chapa": "340056",
-      "empresa_cnpj": "58.505.621/0001-07",
+      "nome": "FRANCISCO RENAN DE SOUSA SILVA",
+      "cpf": "05692376377",
+      "chapa": "052187",
+      "empresa_cnpj": "00.064.336/0001-18",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:51:02.965Z"
+      "primeiro_registro": "2026-07-16T00:30:52.188Z"
     },
     {
       "nome": "GABRIEL MOTA RODRIGUES",
@@ -1352,6 +1344,14 @@
       "empresa_cnpj": "58.505.621/0001-07",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:56:41.815Z"
+    },
+    {
+      "nome": "GABRIEL MOTA RODRIGUES",
+      "cpf": "63460043369",
+      "chapa": "340056",
+      "empresa_cnpj": "58.505.621/0001-07",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:51:02.965Z"
     },
     {
       "nome": "GILLENO DA SILVA FERREIRA",
@@ -1414,24 +1414,16 @@
       "cpf": "04625246393",
       "chapa": "115119",
       "empresa_cnpj": "04.620.686/0001-74",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:44.778Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:23:30.471Z"
     },
     {
       "nome": "IGOR SABINO ALVES AMORIM",
       "cpf": "04625246393",
       "chapa": "115119",
       "empresa_cnpj": "04.620.686/0001-74",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:23:30.471Z"
-    },
-    {
-      "nome": "IRLENE FERREIRA DA SILVA",
-      "cpf": "64277739334",
-      "chapa": "084035",
-      "empresa_cnpj": "03.935.677/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:56:45.085Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:44.778Z"
     },
     {
       "nome": "IRLENE FERREIRA DA SILVA",
@@ -1442,12 +1434,12 @@
       "primeiro_registro": "2026-07-23T11:56:45.515Z"
     },
     {
-      "nome": "ISAIAS BALBINO DA SILVA",
-      "cpf": "02148756443",
-      "chapa": "260190",
-      "empresa_cnpj": null,
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:46.226Z"
+      "nome": "IRLENE FERREIRA DA SILVA",
+      "cpf": "64277739334",
+      "chapa": "084035",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:56:45.085Z"
     },
     {
       "nome": "ISAIAS BALBINO DA SILVA",
@@ -1456,6 +1448,14 @@
       "empresa_cnpj": null,
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T13:59:27.069Z"
+    },
+    {
+      "nome": "ISAIAS BALBINO DA SILVA",
+      "cpf": "02148756443",
+      "chapa": "260190",
+      "empresa_cnpj": null,
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:46.226Z"
     },
     {
       "nome": "JHONES ELIS MARQUES VIEIRA",
@@ -1478,16 +1478,16 @@
       "cpf": "10161838367",
       "chapa": "071587",
       "empresa_cnpj": "00.512.205/0001-56",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:31:54.349Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:47.626Z"
     },
     {
       "nome": "JOAO DE SOUZA ALMINO NETO",
       "cpf": "10161838367",
       "chapa": "071587",
       "empresa_cnpj": "00.512.205/0001-56",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:47.626Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:31:54.349Z"
     },
     {
       "nome": "JOAO DOS SANTOS COSTA",
@@ -1510,24 +1510,16 @@
       "cpf": "61748110349",
       "chapa": "084040",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:03:51.668Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:49.044Z"
     },
     {
       "nome": "JOAO GLEYDSTONY TEIXEIRA FARIAS",
       "cpf": "61748110349",
       "chapa": "084040",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:49.044Z"
-    },
-    {
-      "nome": "JOAO LUIS MOURA SILVA",
-      "cpf": "91834945372",
-      "chapa": "084027",
-      "empresa_cnpj": "03.935.677/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:49.729Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:03:51.668Z"
     },
     {
       "nome": "JOAO LUIS MOURA SILVA",
@@ -1538,12 +1530,12 @@
       "primeiro_registro": "2026-07-16T01:44:39.053Z"
     },
     {
-      "nome": "JOAO VICTOR RACHID FILGUEIRAS DA SILVA",
-      "cpf": "07655461325",
-      "chapa": "350007",
-      "empresa_cnpj": "62.279.024/0001-89",
+      "nome": "JOAO LUIS MOURA SILVA",
+      "cpf": "91834945372",
+      "chapa": "084027",
+      "empresa_cnpj": "03.935.677/0001-00",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:50.443Z"
+      "primeiro_registro": "2026-07-23T11:56:49.729Z"
     },
     {
       "nome": "JOAO VICTOR RACHID FILGUEIRAS DA SILVA",
@@ -1552,6 +1544,14 @@
       "empresa_cnpj": "62.279.024/0001-89",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T02:54:53.551Z"
+    },
+    {
+      "nome": "JOAO VICTOR RACHID FILGUEIRAS DA SILVA",
+      "cpf": "07655461325",
+      "chapa": "350007",
+      "empresa_cnpj": "62.279.024/0001-89",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:50.443Z"
     },
     {
       "nome": "JOSE CARLOS MARQUES",
@@ -1654,24 +1654,16 @@
       "cpf": "89543149372",
       "chapa": "230117",
       "empresa_cnpj": "49.638.087/0001-16",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:29:22.354Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:54.712Z"
     },
     {
       "nome": "LARISSA CAMURI NUNES LIMA",
       "cpf": "89543149372",
       "chapa": "230117",
       "empresa_cnpj": "49.638.087/0001-16",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:54.712Z"
-    },
-    {
-      "nome": "LEILA DAIANE DOS SANTOS TOMAZ",
-      "cpf": "35435122856",
-      "chapa": "340051",
-      "empresa_cnpj": "58.505.621/0001-07",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:45:17.836Z"
+      "primeiro_registro": "2026-07-16T02:29:22.354Z"
     },
     {
       "nome": "LEILA DAIANE DOS SANTOS TOMAZ",
@@ -1682,12 +1674,12 @@
       "primeiro_registro": "2026-07-23T11:56:56.185Z"
     },
     {
-      "nome": "LETICIA DA SILVA",
-      "cpf": "62587180350",
-      "chapa": "084031",
-      "empresa_cnpj": "03.935.677/0001-00",
+      "nome": "LEILA DAIANE DOS SANTOS TOMAZ",
+      "cpf": "35435122856",
+      "chapa": "340051",
+      "empresa_cnpj": "58.505.621/0001-07",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:50:20.988Z"
+      "primeiro_registro": "2026-07-16T02:45:17.836Z"
     },
     {
       "nome": "LETICIA DA SILVA",
@@ -1696,6 +1688,14 @@
       "empresa_cnpj": "03.935.677/0001-00",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:56:57.116Z"
+    },
+    {
+      "nome": "LETICIA DA SILVA",
+      "cpf": "62587180350",
+      "chapa": "084031",
+      "empresa_cnpj": "03.935.677/0001-00",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:50:20.988Z"
     },
     {
       "nome": "LIBNA VITORIA FERREIRA DE ARAUJO FRANCO",
@@ -1750,24 +1750,16 @@
       "cpf": "11017505454",
       "chapa": "260196",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:59.359Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:41:01.761Z"
     },
     {
       "nome": "MARCELO GOMES DA SILVA JUNIOR",
       "cpf": "11017505454",
       "chapa": "260196",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:41:01.761Z"
-    },
-    {
-      "nome": "MARCIA DE SOUZA CAVALCANTE",
-      "cpf": "01693785358",
-      "chapa": "062782",
-      "empresa_cnpj": "02.336.498/0001-93",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:18:29.166Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:59.359Z"
     },
     {
       "nome": "MARCIA DE SOUZA CAVALCANTE",
@@ -1776,6 +1768,14 @@
       "empresa_cnpj": "02.336.498/0001-93",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:57:00.061Z"
+    },
+    {
+      "nome": "MARCIA DE SOUZA CAVALCANTE",
+      "cpf": "01693785358",
+      "chapa": "062782",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:18:29.166Z"
     },
     {
       "nome": "MARCIO ANDRE LOUREIRO SALLES",
@@ -1822,24 +1822,16 @@
       "cpf": "05016954356",
       "chapa": "084029",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:47:26.954Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:02.222Z"
     },
     {
       "nome": "MARIA RENATA BEZERRA BARBOSA",
       "cpf": "05016954356",
       "chapa": "084029",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:02.222Z"
-    },
-    {
-      "nome": "MARIA TATIANA BATISTA DA CRUZ SILVA",
-      "cpf": "64612953304",
-      "chapa": "084034",
-      "empresa_cnpj": "03.935.677/0003-71",
       "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:54:38.055Z"
+      "primeiro_registro": "2026-07-16T01:47:26.954Z"
     },
     {
       "nome": "MARIA TATIANA BATISTA DA CRUZ SILVA",
@@ -1848,6 +1840,14 @@
       "empresa_cnpj": "03.935.677/0003-71",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:57:02.915Z"
+    },
+    {
+      "nome": "MARIA TATIANA BATISTA DA CRUZ SILVA",
+      "cpf": "64612953304",
+      "chapa": "084034",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:54:38.055Z"
     },
     {
       "nome": "MATHEUS FERREIRA DA SILVA",
@@ -1870,24 +1870,16 @@
       "cpf": "09290432357",
       "chapa": "011564",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:18:53.766Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:04.286Z"
     },
     {
       "nome": "MILLENA LIMA DA SILVA",
       "cpf": "09290432357",
       "chapa": "011564",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:04.286Z"
-    },
-    {
-      "nome": "MIRELLA MOREIRA DO VALE",
-      "cpf": "63387348355",
-      "chapa": "084043",
-      "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:04.981Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:18:53.766Z"
     },
     {
       "nome": "MIRELLA MOREIRA DO VALE",
@@ -1896,6 +1888,14 @@
       "empresa_cnpj": "03.935.677/0003-71",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T02:07:47.807Z"
+    },
+    {
+      "nome": "MIRELLA MOREIRA DO VALE",
+      "cpf": "63387348355",
+      "chapa": "084043",
+      "empresa_cnpj": "03.935.677/0003-71",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:04.981Z"
     },
     {
       "nome": "NIVANALDO DE SOUSA DAS CHAGAS",
@@ -1950,16 +1950,16 @@
       "cpf": "08460445364",
       "chapa": "340055",
       "empresa_cnpj": "58.505.621/0001-07",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:49:36.456Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:07.842Z"
     },
     {
       "nome": "OZIAS CAVALCANTE OLIVEIRA",
       "cpf": "08460445364",
       "chapa": "340055",
       "empresa_cnpj": "58.505.621/0001-07",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:07.842Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:49:36.456Z"
     },
     {
       "nome": "PAULO GUTEMBERG DE SOUSA",
@@ -2022,16 +2022,16 @@
       "cpf": "10892252375",
       "chapa": "062786",
       "empresa_cnpj": "02.336.498/0005-17",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T12:17:29.458Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:10.583Z"
     },
     {
       "nome": "RAISSA SIMOES INACIO",
       "cpf": "10892252375",
       "chapa": "062786",
       "empresa_cnpj": "02.336.498/0005-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:10.583Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T12:17:29.458Z"
     },
     {
       "nome": "RAMON BATISTA DO NASCIMENTO",
@@ -2054,16 +2054,16 @@
       "cpf": "47961334882",
       "chapa": "140170",
       "empresa_cnpj": "08.543.039/0001-67",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T16:29:38.391Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:11.953Z"
     },
     {
       "nome": "RAPHAEL PIETRO CAU RIBEIRO CAMARGO",
       "cpf": "47961334882",
       "chapa": "140170",
       "empresa_cnpj": "08.543.039/0001-67",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:11.953Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T16:29:38.391Z"
     },
     {
       "nome": "RENAN AMORIM GONÇALVES",
@@ -2102,16 +2102,24 @@
       "cpf": "61639838317",
       "chapa": "084037",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:14.020Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:59:34.407Z"
     },
     {
       "nome": "RIVANILSON PAIXAO ALMEIDA",
       "cpf": "61639838317",
       "chapa": "084037",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:59:34.407Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:14.020Z"
+    },
+    {
+      "nome": "RIVELINO XAVIER DIAS",
+      "cpf": "04557393314",
+      "chapa": "143035",
+      "empresa_cnpj": "08.543.039/0001-67",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-26T22:12:11.177Z"
     },
     {
       "nome": "RIVELINO XAVIER DIAS",
@@ -2150,16 +2158,16 @@
       "cpf": "06135435302",
       "chapa": "084025",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:41:47.137Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:16.095Z"
     },
     {
       "nome": "RODRIGO VILLA REAL MENDES SALES",
       "cpf": "06135435302",
       "chapa": "084025",
       "empresa_cnpj": "03.935.677/0003-71",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:16.095Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:41:47.137Z"
     },
     {
       "nome": "ROZANA MEDEIROS BATISTA",
@@ -2174,24 +2182,16 @@
       "cpf": "61071488333",
       "chapa": "094861",
       "empresa_cnpj": "03.898.300/0001-28",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:16.927Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:10:38.051Z"
     },
     {
       "nome": "RUAN PABLO DE SOUSA LOURENÇO",
       "cpf": "61071488333",
       "chapa": "094861",
       "empresa_cnpj": "03.898.300/0001-28",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:10:38.051Z"
-    },
-    {
-      "nome": "SILVESTRE DA SILVA DE OLIVEIRA",
-      "cpf": "63554008346",
-      "chapa": "052186",
-      "empresa_cnpj": "00.064.336/0001-18",
       "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:18.407Z"
+      "primeiro_registro": "2026-07-23T11:57:16.927Z"
     },
     {
       "nome": "SILVESTRE DA SILVA DE OLIVEIRA",
@@ -2202,12 +2202,12 @@
       "primeiro_registro": "2026-07-15T23:58:30.206Z"
     },
     {
-      "nome": "SUBERLAN DA SILVA XAVIER",
-      "cpf": "61096769344",
-      "chapa": "062779",
-      "empresa_cnpj": "02.336.498/0001-93",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T01:14:13.934Z"
+      "nome": "SILVESTRE DA SILVA DE OLIVEIRA",
+      "cpf": "63554008346",
+      "chapa": "052186",
+      "empresa_cnpj": "00.064.336/0001-18",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:18.407Z"
     },
     {
       "nome": "SUBERLAN DA SILVA XAVIER",
@@ -2216,6 +2216,14 @@
       "empresa_cnpj": "02.336.498/0001-93",
       "status": "JA_EXISTIA",
       "primeiro_registro": "2026-07-23T11:57:19.159Z"
+    },
+    {
+      "nome": "SUBERLAN DA SILVA XAVIER",
+      "cpf": "61096769344",
+      "chapa": "062779",
+      "empresa_cnpj": "02.336.498/0001-93",
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T01:14:13.934Z"
     },
     {
       "nome": "TALISSON DE LIMA VIANA",
@@ -2334,16 +2342,16 @@
       "cpf": "13701889430",
       "chapa": "260195",
       "empresa_cnpj": null,
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T14:07:54.445Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:25.099Z"
     },
     {
       "nome": "YAN BORGES DA SILVA CAMPELO",
       "cpf": "13701889430",
       "chapa": "260195",
       "empresa_cnpj": null,
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:25.099Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:07:54.445Z"
     },
     {
       "nome": "YANA ADRIELLE FERREIRA DE MIRANDA",
@@ -2369,7 +2377,7 @@
     },
     {
       "status": "ERRO_AUTOMACAO",
-      "qtd": "130"
+      "qtd": "128"
     }
   ]
 }
