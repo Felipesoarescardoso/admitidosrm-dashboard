@@ -1,16 +1,16 @@
 {
-  "atualizado_em": "2026-07-26T22:24:38.925Z",
+  "atualizado_em": "2026-07-26T22:29:39.845Z",
   "resumo": {
     "total": 2587,
     "cadastrados": 310,
-    "jaExistiam": 1494,
+    "jaExistiam": 1781,
     "erros": 374,
-    "pendentes": 409
+    "pendentes": 122
   },
   "metricas": {
     "totalExecucoes": 108,
     "execucoesHoje": 30,
-    "mediaDuracaoSegundos": 1549
+    "mediaDuracaoSegundos": 1582
   },
   "execucoes": [
     {
@@ -659,9 +659,9 @@
     },
     {
       "dia": "2026-07-19T03:00:00.000Z",
-      "total": "5",
+      "total": "4",
       "cadastrados": "0",
-      "erros": "5"
+      "erros": "4"
     }
   ],
   "cadastrados": [
@@ -1574,16 +1574,16 @@
       "cpf": "12512007456",
       "chapa": "260191",
       "empresa_cnpj": null,
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:56:51.867Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:01:02.763Z"
     },
     {
       "nome": "JOSE MATHEUS GONCALVES DA ROCHA MAIA",
       "cpf": "12512007456",
       "chapa": "260191",
       "empresa_cnpj": null,
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T14:01:02.763Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:56:51.867Z"
     },
     {
       "nome": "JOYCE GONCALVES DE OLIVEIRA",
@@ -1854,16 +1854,16 @@
       "cpf": "05028505314",
       "chapa": "011566",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T00:21:51.937Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:03.594Z"
     },
     {
       "nome": "MATHEUS FERREIRA DA SILVA",
       "cpf": "05028505314",
       "chapa": "011566",
       "empresa_cnpj": "41.451.030/0001-00",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:03.594Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T00:21:51.937Z"
     },
     {
       "nome": "MILLENA LIMA DA SILVA",
@@ -1902,16 +1902,16 @@
       "cpf": "84599693391",
       "chapa": "094860",
       "empresa_cnpj": "03.898.300/0004-70",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:05.672Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T02:09:13.145Z"
     },
     {
       "nome": "NIVANALDO DE SOUSA DAS CHAGAS",
       "cpf": "84599693391",
       "chapa": "094860",
       "empresa_cnpj": "03.898.300/0004-70",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T02:09:13.145Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:05.672Z"
     },
     {
       "nome": "NOEME NASCIMENTO DOS SANTOS",
@@ -1934,16 +1934,16 @@
       "cpf": "08544103413",
       "chapa": "260194",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T14:06:19.494Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:07.125Z"
     },
     {
       "nome": "OTACILIA CLEIA FERREIRA DE SOUZA",
       "cpf": "08544103413",
       "chapa": "260194",
       "empresa_cnpj": "50.892.032/0001-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:07.125Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T14:06:19.494Z"
     },
     {
       "nome": "OZIAS CAVALCANTE OLIVEIRA",
@@ -1974,24 +1974,16 @@
       "cpf": "03365100393",
       "chapa": "120087",
       "empresa_cnpj": "04.891.294/0001-40",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-19T21:43:30.926Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:08.548Z"
     },
     {
       "nome": "PAULO MARCIO MARTINS DE ABREU",
       "cpf": "03365100393",
       "chapa": "120087",
       "empresa_cnpj": "04.891.294/0001-40",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:08.548Z"
-    },
-    {
-      "nome": "RAFAEL DA SILVA",
-      "cpf": "04033042377",
-      "chapa": "120083",
-      "empresa_cnpj": "04.891.294/0001-40",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:09.222Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-19T21:43:30.926Z"
     },
     {
       "nome": "RAFAEL DA SILVA",
@@ -2000,6 +1992,14 @@
       "empresa_cnpj": "04.891.294/0001-40",
       "status": "CADASTRADO",
       "primeiro_registro": "2026-07-16T19:49:29.343Z"
+    },
+    {
+      "nome": "RAFAEL DA SILVA",
+      "cpf": "04033042377",
+      "chapa": "120083",
+      "empresa_cnpj": "04.891.294/0001-40",
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:09.222Z"
     },
     {
       "nome": "RAFAEL SILVESTRE DE SOUZA",
@@ -2022,16 +2022,16 @@
       "cpf": "10892252375",
       "chapa": "062786",
       "empresa_cnpj": "02.336.498/0005-17",
-      "status": "CADASTRADO",
-      "primeiro_registro": "2026-07-16T12:17:29.458Z"
+      "status": "JA_EXISTIA",
+      "primeiro_registro": "2026-07-23T11:57:10.583Z"
     },
     {
       "nome": "RAISSA SIMOES INACIO",
       "cpf": "10892252375",
       "chapa": "062786",
       "empresa_cnpj": "02.336.498/0005-17",
-      "status": "JA_EXISTIA",
-      "primeiro_registro": "2026-07-23T11:57:10.583Z"
+      "status": "CADASTRADO",
+      "primeiro_registro": "2026-07-16T12:17:29.458Z"
     },
     {
       "nome": "RAMON BATISTA DO NASCIMENTO",
