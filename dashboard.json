@@ -1,27 +1,27 @@
 {
-  "atualizado_em": "2026-08-04T20:32:02.199Z",
+  "atualizado_em": "2026-08-04T20:36:59.371Z",
   "resumo": {
     "total": 2822,
     "cadastrados": 322,
     "jaExistiam": 1890,
-    "erros": 425,
-    "pendentes": 185
+    "erros": 426,
+    "pendentes": 184
   },
   "metricas": {
     "totalExecucoes": 162,
     "execucoesHoje": 9,
-    "mediaDuracaoSegundos": 293
+    "mediaDuracaoSegundos": 308
   },
   "execucoes": [
     {
       "id": "5cdb0954-e19b-417c-bc6f-8f2ed3e82090",
       "tipo": "AUTO",
-      "status": "EM_ANDAMENTO",
+      "status": "CONCLUIDO",
       "iniciado_em": "2026-08-04T20:26:38.304Z",
-      "finalizado_em": null,
+      "finalizado_em": "2026-08-04T20:35:41.149Z",
       "total_rm": 1,
       "cadastrados": 0,
-      "erros": 0,
+      "erros": 1,
       "ja_existiam": 0,
       "pendentes": 0
     },
@@ -619,7 +619,7 @@
       "dia": "2026-08-04T03:00:00.000Z",
       "total": "9",
       "cadastrados": "0",
-      "erros": "2"
+      "erros": "3"
     },
     {
       "dia": "2026-08-03T03:00:00.000Z",
@@ -2555,7 +2555,7 @@
     },
     {
       "status": "ERRO_AUTOMACAO",
-      "qtd": "179"
+      "qtd": "180"
     }
   ]
 }
