@@ -1,18 +1,30 @@
 {
-  "atualizado_em": "2026-08-07T16:18:34.642Z",
+  "atualizado_em": "2026-08-07T16:23:35.902Z",
   "resumo": {
-    "total": 2834,
+    "total": 2857,
     "cadastrados": 322,
     "jaExistiam": 1890,
     "erros": 438,
-    "pendentes": 184
+    "pendentes": 207
   },
   "metricas": {
-    "totalExecucoes": 166,
-    "execucoesHoje": 0,
-    "mediaDuracaoSegundos": 302
+    "totalExecucoes": 167,
+    "execucoesHoje": 1,
+    "mediaDuracaoSegundos": 314
   },
   "execucoes": [
+    {
+      "id": "90e179fe-7284-45be-bf64-5108c8d9cd0e",
+      "tipo": "AUTO",
+      "status": "EM_ANDAMENTO",
+      "iniciado_em": "2026-08-07T16:23:14.623Z",
+      "finalizado_em": null,
+      "total_rm": 23,
+      "cadastrados": 0,
+      "erros": 0,
+      "ja_existiam": 0,
+      "pendentes": 0
+    },
     {
       "id": "6504306a-7d25-4d93-a83d-128c18227f94",
       "tipo": "AUTO",
@@ -600,21 +612,15 @@
       "erros": 0,
       "ja_existiam": 0,
       "pendentes": 0
-    },
-    {
-      "id": "71fefb3b-ad39-48d6-9b92-36e0c5386aad",
-      "tipo": "AUTO",
-      "status": "EM_ANDAMENTO",
-      "iniciado_em": "2026-07-30T00:04:38.735Z",
-      "finalizado_em": null,
-      "total_rm": 14,
-      "cadastrados": 0,
-      "erros": 0,
-      "ja_existiam": 0,
-      "pendentes": 0
     }
   ],
   "execucoesPorDia": [
+    {
+      "dia": "2026-08-07T03:00:00.000Z",
+      "total": "1",
+      "cadastrados": "0",
+      "erros": "0"
+    },
     {
       "dia": "2026-08-06T03:00:00.000Z",
       "total": "1",
@@ -653,9 +659,9 @@
     },
     {
       "dia": "2026-07-31T03:00:00.000Z",
-      "total": "6",
+      "total": "5",
       "cadastrados": "0",
-      "erros": "3"
+      "erros": "2"
     }
   ],
   "cadastrados": [
